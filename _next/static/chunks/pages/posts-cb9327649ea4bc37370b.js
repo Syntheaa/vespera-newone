@@ -121,10 +121,10 @@
                             className: "wrapper relative z-20",
                             children: [(0, c.jsx)(l.Z, {
                                 size: "regular",
-                                children: "Development"
+                                children: "Road"
                             }), (0, c.jsx)(l.Z, {
                                 size: "large",
-                                children: "Blog"
+                                children: "Map"
                             })]
                         }), t.length > 0 && (0, c.jsx)(c.Fragment, {
                             children: (0, c.jsx)("div", {

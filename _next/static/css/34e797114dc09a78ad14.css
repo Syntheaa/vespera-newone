@@ -865,7 +865,7 @@ video {
 }
 
 .gap-8 {
-    gap: 2rem
+    gap: 15rem
 }
 
 .space-x-5>:not([hidden])~:not([hidden]) {
@@ -2361,7 +2361,7 @@ html {
     height: 30px
 }
 
-.checkbox:before {
+/*.checkbox:before {
     content: " ";
     display: block;
     width: 100%;
@@ -2379,7 +2379,7 @@ html {
 
 .checkbox:checked:before {
     background: #000 url(/cross.png) no-repeat 50%
-}
+}*/
 
 .trajan {
     font-family: trajan-pro-3, serif;
@@ -2395,7 +2395,7 @@ html {
     justify-content: center
 }
 
-@media (min-width:640px) {
+@media (min-width:740px) {
     .sm\:w-full {
         width: 100%
     }
@@ -2575,7 +2575,7 @@ html {
         justify-content: space-between
     }
     .lg\:gap-12 {
-        gap: 3rem
+        gap: 12rem
     }
     .lg\:space-x-8>:not([hidden])~:not([hidden]) {
         --tw-space-x-reverse: 0;

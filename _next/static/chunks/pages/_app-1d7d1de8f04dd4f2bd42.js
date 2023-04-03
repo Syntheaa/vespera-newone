@@ -8689,34 +8689,34 @@
                     label: "About vespera",
                     url: "/the-independent-aaa-proposition"
                 }, {
-                    label: " Blog",
+                    label: " Map",
                     url: "/posts"
                 }, {
                     label: " Support",
                     url: "/mental-health-support"
                 }, {
-                    label: "Market",
-                    url: "https://www.facebook.com/profile.php?id=100087548769022&mibextid=ZbWKwL",
+                    label: "GamePlay",
+                    url: "https://youtu.be/rnEs7HJ3bc0",
                     passHref: !0
                 }, {
-                    label: "",
+                    label: "PARTNER",
                     url: "/buy"
                 }],
                 a = [{
-                    title: "Privacy and Cookies",
-                    passHref: !0,
-                    url: "https://go.microsoft.com/fwlink/?LinkId=521839"
+                    title: "Youtube",
+                    
+                    url: "https://youtube.com/@VESPERABSC"
                 }, {
-                    title: "Trademarks",
+                    title: "Telegram",
                     passHref: !0,
-                    url: "https://www.microsoft.com/trademarks"
+                    url: "https://t.me/VESPERABSC"
                 }, {
-                    title: "Terms of Use",
-                    passHref: !0,
-                    url: "https://www.microsoft.com/servicesagreement/"
+                    title: "Twitter",
+                    
+                    url: "https://twitter.com/vesperabsc/"
                 }, {
-                    title: "Code of Conduct",
-                    passHref: !0,
+                    title: "Discord",
+                    
                     url: "https://www.xbox.com/en-US/Legal/CodeOfConduct"
                 }]
         },
@@ -9380,7 +9380,7 @@
                                         s && E.current.click()
                                     },
                                     className: " top-2 lg:top-0 nav-logo relative z-10 focus:outline-none focus:ring-1 transition-opacity duration-200 ".concat(e ? "opacity-0" : "opacity-100"),
-                                    children: "Hellblade: Senua's Sacrifice"
+                                    children: "VESPERA : GAME's SECRET"
                                 })
                             }), (0, l.jsx)(d, {
                                 className: "lg:hidden absolute right-0 top-0 z-10",
@@ -9426,7 +9426,7 @@
                             className: " ".concat(i ? "out" : "", " flex justify-center flex-col "),
                             children: [(0, l.jsx)("div", {
                                 className: "logo",
-                                children: "Hellblade: Senua's Sacrifice"
+                                children: "VESPERA: GAME's SECRET"
                             }), (0, l.jsxs)("label", {
                                 className: "inline-flex items-center justify-center mt-20 mb-10 cursor-pointer",
                                 children: [(0, l.jsx)("input", {
@@ -9675,7 +9675,7 @@
                                             window.siteConsent.isConsentRequired && window.siteConsent.manageConsent()
                                         },
                                         className: " cursor-pointer focus:outline-none focus:ring-1 block font-proxima-nova-extra-condensed uppercase font-bold text-sm hover:text-hellblade-light-grey py-3 md:py-0 ",
-                                        children: "Manage Cookies"
+                                        children: ""
                                     })]
                                 }), (0, l.jsxs)("div", {
                                     className: " text-xs text-hellblade-legal max-w-xl",
@@ -9770,10 +9770,10 @@
                         content: "#ffffff"
                     }), (0, l.jsx)("meta", {
                         name: "description",
-                        content: "Hellblade: Senua's Sacrifice is a action-adventure game developed and published by the British video game development studio Ninja Theory"
+                        content: "Vespera  is a horror-adventure-gelaxy game developed and published by the British game development"
                     }), (0, l.jsx)("meta", {
                         property: "og:image",
-                        content: "https://hellblade.com/placeholder.jpg"
+                        content: "https://i.ibb.co/V22hZrb/Screenshot-432.png"
                     })]
                 })
             }

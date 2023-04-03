@@ -57,39 +57,26 @@
                 i = a(8098),
                 r = a(5893),
                 c = [{
-                    text: "Xbox Series X | S, Xbox ONe X Enhanced",
-                    url: "https://www.microsoft.com/en-us/store/p/Hellblade-Senua-s-Sacrifice/C4Z7QM8FSXM2",
-                    image: "/buy/xbox.png"
+                    text: "PNKSALE",
+                    url: "https://www.pinksale.finance/",
+                    image: "https://www.pinkswap.finance/pinksale.png"
                 }, {
-                    text: "Microsoft Store",
-                    url: "https://www.microsoft.com/en-gb/p/hellblade-senuas-sacrifice/c4z7qm8fsxm2?activetab=pivot:overviewtab",
-                    image: "/buy/microsoft-store.png"
+                    text: "DEXVIEW",
+                    url: "https://t.me/dexview",
+                    image: "https://i.ibb.co/JBRrPCy/Ki01d3av-R7-I200x200.jpg"
                 }],
                 o = [{
-                    text: "PlayStation UK",
-                    url: "https://store.playstation.com/en-gb/product/EP8941-CUSA07527_00-HELLB2017NT002EN?gclsrc=aw.ds&gclid=Cj0KCQjwwLKFBhDPARIsAPzPi-Ja7RTPlplCRzbwi-xzOEASuuHQ9x-G7E3b9ALV_ZyJRDwu5V3omkcaAhmmEALw_wcB",
-                    image: "/buy/playstation.png"
+                    text: "Crypto signal-24",
+                    url: "https://t.me/+KtNCXWJHtvFjZjE1",
+                    image: "https://i.ibb.co/XkhMfj4/Whats-App-Image-20230402-at-44911-AM150x150.jpg"
                 }, {
-                    text: "gog.com",
-                    url: "https://www.gog.com/game/hellblade_senuas_sacrifice_pack?gclsrc=aw.ds&gclid=Cj0KCQjwwLKFBhDPARIsAPzPi-IRxoKZ4RipyFADvNutUeYa_lQvBD6Mc_CN5qvfyOaiZF0kVnadx0oaAq3eEALw_wcB",
-                    image: "/buy/gog.png"
-                }, {
-                    text: "PlayStation US",
-                    url: "https://store.playstation.com/en-us/product/UP3064-CUSA07511_00-HELLB2017NT002EN",
-                    image: "/buy/playstation.png"
-                }, {
-                    text: "Humble",
-                    url: "https://www.humblebundle.com/store/hellblade-senuas-sacrifice",
-                    image: "/buy/humble.png"
-                }, {
-                    text: "Steam",
-                    url: "https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/",
-                    image: "/buy/steam.png"
-                }, {
-                    text: "Nintendo EShop",
-                    url: "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Hellblade-Senua-s-Sacrifice-1542934.html",
-                    image: "/buy/nintendo.png"
-                }],
+                    text: "CRYPTOLAB",
+                    url: "https://t.me/+Pf9hADB3kCgxMDc8",
+                    image: "https://i.ibb.co/2y9hh3P/Whats-App-Image20230402at53626-AM150x150200x200.jpg"
+                }
+                 
+               
+                ],
                 d = function() {
                     return (0, r.jsxs)("div", {
                         className: "flex mt-10 mb-20",
@@ -102,7 +89,7 @@
                             children: (0, r.jsx)("div", {
                                 className: " bg-black border border-hellblade-grey inline-block",
                                 children: (0, r.jsx)("img", {
-                                    src: "/packshot.png",
+                                    src: "https://i.ibb.co/2ccRRT2/Screenshot-441.png",
                                     className: "block",
                                     width: "200",
                                     height: "300"
@@ -113,20 +100,20 @@
                             children: (0, r.jsxs)("div", {
                                 children: [(0, r.jsx)("h2", {
                                     className: " leading-none uppercase font-proxima-nova-extra-condensed font-bold text-3xl md:text-4xl lg:text-6xl",
-                                    children: "Hellblade: Senua's Sacrifice"
+                                    children: "VESPERA: GAME'S SECRET"
                                 }), (0, r.jsxs)("h3", {
                                     className: "text-2xl md:text-4xl font-bold uppercase font-proxima-nova-extra-condensed",
                                     children: ["Now optimised for", " ", (0, r.jsx)("span", {
                                         className: " block md:inline-block text-xbox-green",
-                                        children: "Xbox Series X|S"
+                                        children: " A novel gaming experience set in the future"
                                     })]
                                 }), (0, r.jsx)("p", {
                                     className: "lg:text-2xl font-bold uppercase font-proxima-nova-extra-condensed",
-                                    children: "(Also included in Xbox Game Pass)"
+                                    children: "(Included in Cryto trandin market)"
                                 }), (0, r.jsx)("a", {
                                     className: " hover:opacity-50 block mt-6 md:mt-16 text-xl md:text-3xl  text-hellblade-orange font-bold uppercase font-proxima-nova-extra-condensed",
-                                    href: "https://www.microsoft.com/en-gb/p/hellblade-senuas-sacrifice/c4z7qm8fsxm2?activetab=pivot:overviewtab",
-                                    children: "Buy Now"
+                                    href: "https://t.me/VESPERABSC",
+                                    children: "JOIN NOW"
                                 })]
                             })
                         })]
@@ -181,13 +168,13 @@
                             className: "-ml-2",
                             children: (0, r.jsx)(s.Z, {
                                 size: "large",
-                                children: "Buy"
+                                children: "PARTNER"
                             })
                         }), (0, r.jsx)(d, {}), (0, r.jsxs)("div", {
                             className: "max-w-5xl bg-green-500-",
                             children: [(0, r.jsx)("h4", {
                                 className: " mb-8 font-bold uppercase font-proxima-nova-extra-condensed text-2xl",
-                                children: "Select your platform/retailer"
+                                children: "Select your platform"
                             }), (0, r.jsx)(x, {
                                 children: c.map((function(e) {
                                     return (0, r.jsx)(m, {
@@ -198,7 +185,7 @@
                                 className: "md:grid md:grid-cols-retail",
                                 children: (0, r.jsx)("h4", {
                                     className: " bundle-header mt-8 col-span-3 my-10 md:my-20 text-center font-bold uppercase font-proxima-nova-extra-condensed text-2xl",
-                                    children: "Included in Xbox Game Pass"
+                                    children: ""
                                 })
                             }), (0, r.jsx)(x, {
                                 children: o.map((function(e) {

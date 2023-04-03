@@ -185,10 +185,10 @@
                                 className: "flex-col flex justify-center items-center",
                                 children: [(0, o.jsx)(r.Z, {
                                     size: " text-2xl md:text-4xl",
-                                    children: "Mysterious & alluring character"
+                                    children: " novel gaming experience"
                                 }), (0, o.jsx)(r.Z, {
                                     size: "text-2xl md:text-4xl",
-                                    children: "for game's secret"
+                                    children: "set in the future"
                                 })]
                             })
                         }), (0, o.jsx)("div", {
@@ -206,7 +206,7 @@
                                 },
                                 children: (0, o.jsx)(r.Z, {
                                     size: "text-2xl",
-                                    children: "Learn more"
+                                    children: "Trailer"
                                 })
                             })
                         })]

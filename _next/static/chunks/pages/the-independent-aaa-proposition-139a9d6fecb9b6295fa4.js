@@ -79,27 +79,27 @@
                                 className: "font-proxima-nova-extra-condensed leading-none uppercase text-hellblade-orange  text-2xl md:text-3xl font-bold",
                                 children: "Details about vespera"
                             }), (0, r.jsx)("p", {
-                                children: "Vespera is a unique and exotic name that could be associated with a fictional character or even a new brand. The name has a Latin origin and is derived from the word vesper meaning evening or twilight. As such, the name Vespera has a mysterious and alluring quality to it, suggesting a character or brand that is elegant, sophisticated, and perhaps a little bit enigmating. Vespera could be a name for a female protagonist in a fantasy or science fiction story, with an ethereal beauty and a hint of otherworldliness. Alternatively, it could be a name for a luxury brand, conveying an image of exclusivity and refinement. The name Vespera also has a musical quality to it, and could be associated with a haunting melody or a poetic lyric. Overall, Vespera is a name with a lot of potential for creative interpretation, and could be used in a wide variety of contexts to convey a sense of intrigue and elegance.:"
+                                children: "Vespera is a distinctive and exotic name that might be connected with a fictitious character or  perhaps a new brand. The term has a Roman origin and is derived from the word vesper, which  means evening or twilight. As a result, the word Vespera has a mysterious and intriguing element to it, implying an exquisite, refined, and possibly a little enigmatical character or brand. Vespera might be the name of a female heroine in a fantasy or science fiction narrative, with ethereal beauty and a sense of otherworldliness. Instead, it might be the name of a premium brand, imparting an idea of exclusivity and refinement. Vespera has a musical component to it as well, and might be connected with a haunting song or a beautiful lyric. Overall, Vespera is a name with a lot of creative possibilities that may be utilized in a number of circumstances to communicate a feeling of intrigue and beauty."
                             }), (0, r.jsx)("h3", {
                                 className: " font-proxima-nova-extra-condensed leading-none uppercase font-bold text-lg md:text-xl mt-10 mb-3 ",
                                 children: "Details"
                             }), (0, r.jsxs)("div", {
                                 className: "body",
                                 children: [(0, r.jsx)("p", {
-                                    children: "The player takes on the role of a space explorer, who is tasked with exploring new planets and discovering new resources. The game world is vast and open-ended, with the player free to explore different planets, interact with different factions, and engage in various activities."
+                                    children: "The player will face a variety of problems as they go through the game, including deadly creatures, terrible weather conditions, and opposing groups. To overcome these obstacles, the player must employ a variety of talents and abilities, including as fighting, resource management,and diplomacy"
                                 }), (0, r.jsx)("p", {
-                                    children: "As the player progresses through the game, they will encounter a range of challenges, including hostile creatures, harsh weather conditions, and rival factions. To overcome these challenges, the player must use a range of skills and tools, including combat skills, resource management, and diplomacy.."
+                                    children: "The player will uncover new resources as they explore the many planets, which may be utilized to enhance their equipment and spacecraft. The player may also use resources to manufact new goods and weapons or trade them with other factions."
                                 }), (0, r.jsx)("p", {
-                                    children: "As the player explores the different planets, they will discover new resources, which can be used to upgrade their equipment and spacecraft. The player can also trade resources with other factions, or use them to create new items and weapons.."
+                                    children: "The game includes a variety of multiplayer activities in addition to exploration and resource management. Gamers can join forces with other players to explore worlds or compete in activities such as fights and races."
                                 }), (0, r.jsx)("p", {
-                                    children: "In addition to exploration and resource management, the game also features a range of multiplayer activities. Players can team up with other players to explore planets together, or engage in competitive activities such as battles and races.."
+                                    children: "The player will also face a variety of mysteries and secrets as they move through the game, such as old ruins and hidden relics. These mysteries will provide the player fresh insights into the game environment and assist them in unlocking new powers and equipment."
                                 }), (0, r.jsx)("p", {
                                     children: "As the player progresses through the game, they will also encounter a range of mysteries and secrets, such as ancient ruins and hidden artifacts. These secrets will provide the player with new insights into the game world and help them unlock new abilities and equipment."
                                 }), (0, r.jsx)("p", {
-                                    children: "Ultimately, the goal of the game is to become the most successful space explorer in the galaxy, with the player able to establish their own faction, build their own spacecraft, and dominate the galaxy. The game provides a rich and immersive experience, with a vast open world to explore and a range of challenges and activities to engage with."
+                                    children: "The ultimate aim of the game is for the player to become the most successful space explorer in the galaxy, with the ability to form their own faction, build their own spacecraft, and conquer the galaxy. With a large open world to explore and a variety of tasks and activities to participate in, the game gives a rich and immersive experience."
                                 })]
                             }), (0, r.jsx)("a", {
-                                href: "/pdf",
+                                href: "https://pdf.ac/P6t1S",
                                 className: "click-here-to-buy block text-center py-3 mt-8 transition-opacity hover:opacity-75 duration-150",
                                 children: (0, r.jsx)(i.Z, {
                                     size: " lg:text-2xl",
