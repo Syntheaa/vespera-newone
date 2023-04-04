@@ -2,13 +2,13 @@
     "pageProps": {
         "preview": false,
         "post": {
-            "title": "vespera TOKENOMICS",
-            "excerpt": "<p>  • Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. Senua Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
-            "slug": "hellblade-2nd-anniversary",
-            "null": "",
+            "title": "Development Diary1",
+            "excerpt": "<p>We’ve made a habit of releasing our Development Diary videos , but this week we’re making an exception to that rule and sharing our new video with you a few days early. The reason for this being that the focus of the new video is on creating cover, and in particular the cover [&hellip;]</p>\n",
+            "slug": "development-diary-7-creating-cover-art",
+            "date": "",
             "featuredImage": {
                 "node": {
-                    "sourceUrl": "https://i.ibb.co/k3WyRrW/Screenshot-434.png"
+                    "sourceUrl": "https://i.pinimg.com/originals/0a/f9/fc/0af9fc563bb52856cc89b6c092ac11f8.jpg"
                 }
             },
             "author": {
@@ -34,19 +34,19 @@
             "tags": {
                 "edges": []
             },
-            "content": "<p>• Identify target audience and market trends</P>\n<p>• Define the game mechanics and design.</p>\n<div class=\"grid grid-cols-2 gap-6 md:grid-cols-4 md:gap-6 pt-10\">\n<div>\n<p class=\"font-bold\"VESpera</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\">Original</a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n</div>\n"
+            "content": "<p>We’ve made a habit of releasing our Development Diary videos , but this week we’re making an exception to that rule and sharing our new video with you a few days early. The reason for this being that the focus of the new video is on creating cover , and in particular the cover art for the new issue  which hits shelves today.</p>\n<p>This diary tells the story  which was completed in just a day:</p>\n<div class=\"video-container\"><iframe title=\"vimeo-player\" src=\"https://youtu.be/rnEs7HJ3bc0\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div>\n<p>Issue 104 of  full Vespera feature inside  on the cover:</p>\n<p><img loading=\"lazy\" class=\"alignnone size-full wp-image-364\" src=\"https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg\" alt=\"\" width=\"800\" height=\"1148\" srcset=\"https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg 800w, https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg 209w, https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg 714w,https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\" /></p>\n<p>And if you’re an  featuring bespoke Vespera work created just for the game:</p>\n<p><img loading=\"lazy\" class=\"alignnone size-full wp-image-363\" src=\"https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg\" alt=\"\" width=\"800\" height=\"1130\" srcset=\"https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg 800w, https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg 212w, https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg 725w,https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\" /></p>\n</div>\n"
         },
         "posts": {
             "edges": [
                 {
                     "node": {
-                        "title": "vespara: staking",
-                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vesparavespara: Senua&#8217;s Sacrifice. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
+                        "title": "VESPERA: Unic & exotic charecter",
+                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vesparavespara: game&#8217;s secret. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
                         "slug": "hellblade-senuas-sacrifice-xbox-series-xs-version-1-0-1-4",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "https://i.ibb.co/pW0L3s1/Screenshot-447.png"
+                                "sourceUrl": "https://pbs.twimg.com/media/CN3VdlfWIAIVfoL.jpg"
                             }
                         },
                         "author": {
@@ -101,13 +101,50 @@
                 },
                 {
                     "node": {
-                        "title": "vespera: Conceptualization",
-                        "excerpt": "<p> Vaspera initial idea</p>\n<p> Team aliggnment</p>\n<p> Distribution of roles with pillars of the sector</p>\n<p> Whitepaper Creation Website</p>\n<p> DevelopmentCreation of social networks</p>\n. Follow us on Twitter, Telegram or Discord for more news and upnull from the vespara team. Watch the trailer</p>\n",
-                        "slug": "hellblade-out-now-on-nintendo-switch",
+                        "title": "vespera TOKENOMICS",
+                        "excerpt": "<p>• Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. Senua Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
+                        "slug": "hellblade-2nd-anniversary",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "http://25.media.tumblr.com/0d11b8e2b5bc08b58713762118076848/tumblr_mxk8hhEGxK1qbmzejo1_500.gif"
+                                "sourceUrl": "https://i.ibb.co/k3WyRrW/Screenshot-434.png"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "vespera : Conceptualization :: stage-1",
+                        "excerpt": "<p> Vaspera initial idea</p>\n<p> Team aliggnment</p>\n<p> Distribution of roles with pillars of the sector</p>\n<p> Whitepaper Creation Website</p>\n<p> DevelopmentCreation of social networks</p>\n. Follow us on Twitter, Telegram or Discord for more news and upnull from the vespara team. Watch the trailer</p>\n",
+                        "slug": "hellblade-out-now-on-nintendo-switch",
+
+                        "null": "",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/launch.jpg"
                             }
                         },
                         "author": {
@@ -174,7 +211,7 @@
                 {
                     "node": {
                         "title": "Stage-3",
-                        "excerpt": "<p> Post Launch Massive Marketing</p>\n<p> Listing on the main exchanges</p>\n<p> Credit Card Development</p>\n<p> Coingecko Listing</P>\n<p> CoinMarketCap Listing</P>\n<p> Game development</P>\n<p> Initial metaverse and NFT</p>\n<p> integration</p>\n<p> Farming and staking dapp</p>\n<p> Watch the video here!</p>\n",
+                        "excerpt": "<p> Post Launch Massive Marketing</p>\n<p> Listing on the main exchanges</p>\n<p> Credit Card Development</p>\n<p> Coingecko Listing</P>\n<p> CoinMarketCap Listing</P>\n<p> Game development</P>\n<p> Initial metaverse and NFT</p>\n<p> integration</p>\n<p> Farming and staking dapp</p>\n <p>Watch the video here!</p>\n",
                         "slug": "development-diary-25-becoming-senua",
                         "null": "",
                         "featuredImage": {
@@ -209,7 +246,7 @@
                 },
                 {
                     "node": {
-                        "title": "vespera:Development",
+                        "title": "vespera:development",
                         "excerpt": "<p>• Develop and deploy a Minimum Viable Product (MVP) for testing and feedbac• Integrate blockchain technology and the game's cryptocurrencytoken into the MVP. Watch the video here!</p>\n",
                         "slug": "new-track-from-the-hellblade-senuas-sacrifice-soundtrack",
                         "null": "",
@@ -281,49 +318,13 @@
                 },
                 {
                     "node": {
-                        "title": " vespara Wallpapers",
+                        "title": "vespara Wallpapers",
                         "excerpt": "<p>We’ve made some new vespara wallpapers for you all. Firstly, we have a high-res in-game screenshot available in a variety of resolutions for desktop, tablet and mobile. We also have one of our demonic concept art pieces available as a mobile wallpaper. Demon Download pack</p>\n",
                         "slug": "new-hellblade-wallpapers",
                         "null": "",
                         "featuredImage": {
                             "node": {
                                 "sourceUrl": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700086142.jpg"
-                            }
-                        },
-                        "author": {
-                            "node": {
-                                "name": "staak",
-                                "firstName": null,
-                                "lastName": null,
-                                "avatar": {
-                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
-                                }
-                            }
-                        },
-                        "categories": {
-                            "edges": [
-                                {
-                                    "node": {
-                                        "name": "Uncategorised",
-                                        "slug": "uncategorised"
-                                    }
-                                }
-                            ]
-                        },
-                        "tags": {
-                            "edges": []
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "title": "Development : Hearing Voices",
-                        "excerpt": "<p>Our  development diary explores how we’ve created the voices that haunt throughout her journey in vespara: game's secret. Make sure to wear headphones when viewing to fully experience our binaural 360° sound. Watch the video here. For a more in-depth analysis of the themes discussed in the video, click below for an article written [&hellip;]</p>\n",
-                        "slug": "development-diary-24-hearing-voices",
-                        "null": "",
-                        "featuredImage": {
-                            "node": {
-                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/hearing-voices.jpg"
                             }
                         },
                         "author": {

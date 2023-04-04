@@ -2,13 +2,13 @@
     "pageProps": {
         "preview": false,
         "post": {
-            "title": "vespera TOKENOMICS",
-            "excerpt": "<p>  • Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. Senua Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
-            "slug": "hellblade-2nd-anniversary",
-            "null": "",
+            "title": "Development Diary ",
+            "excerpt": "<p>We’ve now begun  Vespera! In our new diary we give a behind the scenes look at our in-house performance capture set up: Watch the video here</p>\n",
+            "slug": "development-diary-18-the-shoot-set-up",
+            "date": "",
             "featuredImage": {
                 "node": {
-                    "sourceUrl": "https://i.ibb.co/k3WyRrW/Screenshot-434.png"
+                    "sourceUrl": "https://wallpapercave.com/wp/wp6283270.jpg"
                 }
             },
             "author": {
@@ -34,14 +34,14 @@
             "tags": {
                 "edges": []
             },
-            "content": "<p>• Identify target audience and market trends</P>\n<p>• Define the game mechanics and design.</p>\n<div class=\"grid grid-cols-2 gap-6 md:grid-cols-4 md:gap-6 pt-10\">\n<div>\n<p class=\"font-bold\"VESpera</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\">Original</a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n</div>\n"
+            "content": "<p> In our new dev diary we made a trailer</p>\n<p>Watch the video <a href=\"https://youtu.be/rnEs7HJ3bc0\">here</a></p>\n"
         },
         "posts": {
             "edges": [
                 {
                     "node": {
                         "title": "vespara: staking",
-                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vesparavespara: Senua&#8217;s Sacrifice. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
+                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vesparavespara: game&#8217;s secret. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
                         "slug": "hellblade-senuas-sacrifice-xbox-series-xs-version-1-0-1-4",
                         "null": "",
                         "featuredImage": {
@@ -85,17 +85,53 @@
                                 },
                                 {
                                     "node": {
-                                        "name": "game's secret s",
+                                        "name": "GAME's secret s",
                                         "slug": "xbox-series-s"
                                     }
                                 },
                                 {
                                     "node": {
-                                        "name": "game's secret x",
+                                        "name": "GAME's secret x",
                                         "slug": "xbox-series-x"
                                     }
                                 }
                             ]
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "vespera TOKENOMICS",
+                        "excerpt": "<p>• Research and define the goals and objectives of the projec• Identify target audience and market trends • Define the game mechanics and design Senua Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
+                        "slug": "hellblade-2nd-anniversary",
+                        "null": "",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://i.ibb.co/k3WyRrW/Screenshot-434.png"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
                         }
                     }
                 },
@@ -137,7 +173,7 @@
                 },
                 {
                     "node": {
-                        "title": "Stage-2",
+                        "title": "stage-2",
                         "excerpt": "<p>Token Sale on Pinksale</p>\n<p> Game Demo LIVE</p>\n<p> PancakeSwap / Uniswap Listing</p>\n<p> Smart Contract Security Audi</p>\n<p> KYC Validation</p>\n<p> Upnull Whitepaper </p>\n",
                         "slug": "hellblade-on-nintendo-switch-releases-april-11",
                         "null": "",
@@ -318,7 +354,7 @@
                 {
                     "node": {
                         "title": "Development : Hearing Voices",
-                        "excerpt": "<p>Our  development diary explores how we’ve created the voices that haunt throughout her journey in vespara: game's secret. Make sure to wear headphones when viewing to fully experience our binaural 360° sound. Watch the video here. For a more in-depth analysis of the themes discussed in the video, click below for an article written [&hellip;]</p>\n",
+                        "excerpt": "<p>Our development diary explores how we’ve created the voices that haunt throughout her journey in vespara: game's secret. Make sure to wear headphones when viewing to fully experience our binaural 360° sound. Watch the video here. For a more in-depth analysis of the themes discussed in the video, click below for an article written [&hellip;]</p>\n",
                         "slug": "development-diary-24-hearing-voices",
                         "null": "",
                         "featuredImage": {
@@ -351,6 +387,7 @@
                         }
                     }
                 }
+                
             ]
         }
     },

@@ -8,7 +8,7 @@
             "null": "",
             "featuredImage": {
                 "node": {
-                    "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/award.jpg"
+                    "sourceUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6b43f19456e2668f45ee70d898072853c7c443a6cece9436f6af6779bee9538f._RI_V_TTW_.jpg"
                 }
             },
             "author": {
@@ -85,13 +85,13 @@
                                 },
                                 {
                                     "node": {
-                                        "name": "xbox series s",
+                                        "name": "game's secret s",
                                         "slug": "xbox-series-s"
                                     }
                                 },
                                 {
                                     "node": {
-                                        "name": "xbox series x",
+                                        "name": "game's secret x",
                                         "slug": "xbox-series-x"
                                     }
                                 }

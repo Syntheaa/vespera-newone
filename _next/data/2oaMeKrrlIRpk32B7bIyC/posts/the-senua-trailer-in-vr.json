@@ -2,13 +2,13 @@
     "pageProps": {
         "preview": false,
         "post": {
-            "title": "vespera TOKENOMICS",
-            "excerpt": "<p>  • Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. Senua Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
-            "slug": "hellblade-2nd-anniversary",
-            "null": "",
+            "title": "The  Trailer",
+            "excerpt": "<p>To start off, an important note: To be clear the release of thevespera Trailer  doesn’t mean that vespera will be experience. We’re testing things out  and it makes sense for us to use the assets that we had available to us while experimenting. At GDC this year, at the [&hellip;]</p>\n",
+            "slug": "the-senua-trailer-in-vr",
+            "date": "",
             "featuredImage": {
                 "node": {
-                    "sourceUrl": "https://i.ibb.co/k3WyRrW/Screenshot-434.png"
+                    "sourceUrl": "https://cdn.wallpapersafari.com/48/80/6c7MD3.jpg"
                 }
             },
             "author": {
@@ -34,7 +34,7 @@
             "tags": {
                 "edges": []
             },
-            "content": "<p>• Identify target audience and market trends</P>\n<p>• Define the game mechanics and design.</p>\n<div class=\"grid grid-cols-2 gap-6 md:grid-cols-4 md:gap-6 pt-10\">\n<div>\n<p class=\"font-bold\"VESpera</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\">Original</a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n</div>\n"
+            "content": "<p><strong>To start off, an important note:</strong> To be clear the release of the vespera Trailer  doesn’t mean that vespera will be  experience. We’re testing things out  and it makes sense for us to use the assets that we had available to us while experimenting.</p>\n<p>At  this year, at the Epic keynote, we released a real-time video of a scene from vespera which you can see <a href=\"https://youtu.be/rnEs7HJ3bc0\">here.</a></p>\n<p>In a cool twist, we drew back the curtain mid-trailer, to reveal t.  In case you missed it, <a href=\"https://youtu.be/rnEs7HJ3bc0\">here</a> is how we did it.</p>\n<p>We worked in partnership with  Games, Cubic Motion, 3Lateral &amp; iKinema to make this happen and it really was a serendipitous coming together of minds wanting to do something cool led by Kim Libreri, CTO of Epic.</p>\n<p>. At the end of the demo I suggested that this would be especially pertinent .</p>\n<p>.A handful of these have been experimenting with .  After , we now had a great looking scene and we wanted to get it up and running .   Today, we are in a position to share it with you as a stereoscopic 360° <a href=\"https://youtu.be/rnEs7HJ3bc0\">video</a> form.</p>\n<p>Getting it working  required quite a bit of work.  The main challenge was optimising it to run at 90fps without losing too much in the way of visual fidelity.  It’s now mostly hitting 90fps with some exceptions so we’re not quite ready to release the PC build of the scene to the hunt.</p>\n<p>In the original scene, the cameras were captured on set and tweaked in Maya but, as you would expect, in VR it felt quite nauseating to quite a few people.  So the cameras were re-authored in matinee from scratch.</p>\n<p>It is possible to eliminate nausea by having static cameras but we felt that you also eliminate part of the drama by doing so.  So what we have is a camera path that tries to preserve the intent of the original camera while avoiding some of the main pitfalls of VR-based camera motion, namely accelerations in movement or rotation. Anyway judge for yourself and let us know how you feel about it on twitter <a href=\"https://t.me/dexview\">@vespera</a>.</p>\n<p>What was really remarkable is the feeling of vespera’s presence .  When you can lean in and see individual eye lashes up close, it is stunning..  However that illusion is shattered when you move your head away from her .</p>\n<p>To get around this, we added head and eye tracking to vespera  .</p>\n<p>We are pretty excited about bringing that future closer!</p>\n"
         },
         "posts": {
             "edges": [
@@ -101,13 +101,13 @@
                 },
                 {
                     "node": {
-                        "title": "vespera: Conceptualization",
-                        "excerpt": "<p> Vaspera initial idea</p>\n<p> Team aliggnment</p>\n<p> Distribution of roles with pillars of the sector</p>\n<p> Whitepaper Creation Website</p>\n<p> DevelopmentCreation of social networks</p>\n. Follow us on Twitter, Telegram or Discord for more news and upnull from the vespara team. Watch the trailer</p>\n",
-                        "slug": "hellblade-out-now-on-nintendo-switch",
+                        "title": "vespera TOKENOMICS",
+                        "excerpt": "<p>  • Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. Senua Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
+                        "slug": "hellblade-2nd-anniversary",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "http://25.media.tumblr.com/0d11b8e2b5bc08b58713762118076848/tumblr_mxk8hhEGxK1qbmzejo1_500.gif"
+                                "sourceUrl": "https://i.ibb.co/k3WyRrW/Screenshot-434.png"
                             }
                         },
                         "author": {
@@ -137,13 +137,13 @@
                 },
                 {
                     "node": {
-                        "title": "Stage-2",
-                        "excerpt": "<p>Token Sale on Pinksale</p>\n<p> Game Demo LIVE</p>\n<p> PancakeSwap / Uniswap Listing</p>\n<p> Smart Contract Security Audi</p>\n<p> KYC Validation</p>\n<p> Upnull Whitepaper </p>\n",
-                        "slug": "hellblade-on-nintendo-switch-releases-april-11",
+                        "title": "vespera: Conceptualization",
+                        "excerpt": "<p> Vaspera initial idea</p>\n<p> Team aliggnment</p>\n<p> Distribution of roles with pillars of the sector</p>\n<p> Whitepaper Creation Website</p>\n<p> DevelopmentCreation of social networks</p>\n. Follow us on Twitter, Telegram or Discord for more news and upnull from the vespara team. Watch the trailer</p>\n",
+                        "slug": "hellblade-out-now-on-nintendo-switch",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "https://i.pinimg.com/550x/64/0c/81/640c817c6d9da5c1a3272539c940fd4c.jpg"
+                                "sourceUrl": "http://25.media.tumblr.com/0d11b8e2b5bc08b58713762118076848/tumblr_mxk8hhEGxK1qbmzejo1_500.gif"
                             }
                         },
                         "author": {
@@ -351,6 +351,7 @@
                         }
                     }
                 }
+                
             ]
         }
     },

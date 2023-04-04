@@ -2,13 +2,13 @@
     "pageProps": {
         "preview": false,
         "post": {
-            "title": "vespera TOKENOMICS",
-            "excerpt": "<p>  • Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. Senua Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
-            "slug": "hellblade-2nd-anniversary",
-            "null": "",
+            "title": "Development Diary 3",
+            "excerpt": "<p>In our new Dev Diary video we take a look at how vespera’s combat gameplay is progressing. Watch the video here.</p>\n",
+            "slug": "development-diary-22-combat-revisited-part-1",
+            "date": "",
             "featuredImage": {
                 "node": {
-                    "sourceUrl": "https://i.ibb.co/k3WyRrW/Screenshot-434.png"
+                    "sourceUrl": "https://www.animenewsnetwork.com/images/encyc/A7-1414619666.1466735928.jpg"
                 }
             },
             "author": {
@@ -34,7 +34,7 @@
             "tags": {
                 "edges": []
             },
-            "content": "<p>• Identify target audience and market trends</P>\n<p>• Define the game mechanics and design.</p>\n<div class=\"grid grid-cols-2 gap-6 md:grid-cols-4 md:gap-6 pt-10\">\n<div>\n<p class=\"font-bold\"VESpera</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\">Original</a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n<div>\n<p class=\"font-bold\">VESPERA</p>\n<p><img class=\"block w-full\" src=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\" /><a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> Original </a> <a class=\"block text-sm\" href=\"https://w.wallha.com/ws/14/s13dbVjC.jpg\"> GAME's SECRET </a></p>\n</div>\n</div>\n"
+            "content": "<p>In our new Dev Diary video we take a look at how vespera’s combat gameplay is progressing.</p>\n<p>Watch the video <a href=\"https://youtu.be/rnEs7HJ3bc0\">here</a>.</p>\n"
         },
         "posts": {
             "edges": [
@@ -101,13 +101,13 @@
                 },
                 {
                     "node": {
-                        "title": "vespera: Conceptualization",
-                        "excerpt": "<p> Vaspera initial idea</p>\n<p> Team aliggnment</p>\n<p> Distribution of roles with pillars of the sector</p>\n<p> Whitepaper Creation Website</p>\n<p> DevelopmentCreation of social networks</p>\n. Follow us on Twitter, Telegram or Discord for more news and upnull from the vespara team. Watch the trailer</p>\n",
-                        "slug": "hellblade-out-now-on-nintendo-switch",
+                        "title": "vespera TOKENOMICS",
+                        "excerpt": "<p>  • Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. Senua Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
+                        "slug": "hellblade-2nd-anniversary",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "http://25.media.tumblr.com/0d11b8e2b5bc08b58713762118076848/tumblr_mxk8hhEGxK1qbmzejo1_500.gif"
+                                "sourceUrl": "https://i.ibb.co/k3WyRrW/Screenshot-434.png"
                             }
                         },
                         "author": {
@@ -137,13 +137,13 @@
                 },
                 {
                     "node": {
-                        "title": "Stage-2",
-                        "excerpt": "<p>Token Sale on Pinksale</p>\n<p> Game Demo LIVE</p>\n<p> PancakeSwap / Uniswap Listing</p>\n<p> Smart Contract Security Audi</p>\n<p> KYC Validation</p>\n<p> Upnull Whitepaper </p>\n",
-                        "slug": "hellblade-on-nintendo-switch-releases-april-11",
+                        "title": "vespera: Conceptualization",
+                        "excerpt": "<p> Vaspera initial idea</p>\n<p> Team aliggnment</p>\n<p> Distribution of roles with pillars of the sector</p>\n<p> Whitepaper Creation Website</p>\n<p> DevelopmentCreation of social networks</p>\n. Follow us on Twitter, Telegram or Discord for more news and upnull from the vespara team. Watch the trailer</p>\n",
+                        "slug": "hellblade-out-now-on-nintendo-switch",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "https://i.pinimg.com/550x/64/0c/81/640c817c6d9da5c1a3272539c940fd4c.jpg"
+                                "sourceUrl": "http://25.media.tumblr.com/0d11b8e2b5bc08b58713762118076848/tumblr_mxk8hhEGxK1qbmzejo1_500.gif"
                             }
                         },
                         "author": {
@@ -351,6 +351,7 @@
                         }
                     }
                 }
+                
             ]
         }
     },
