@@ -8721,7 +8721,7 @@
                 },{
                     title: "Vespera ",
                     
-                    url: "https://jeenatzafrins-organization.gitbook.io/vespera-games-secret/"
+                    url: "https://vesperas-organization.gitbook.io/vespera/"
                 }]
         },
         6666: function(t, e, r) {
