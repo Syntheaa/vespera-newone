@@ -8718,6 +8718,10 @@
                     title: "Discord",
                     
                     url: "https://www.xbox.com/en-US/Legal/CodeOfConduct"
+                },{
+                    title: "Vespera ",
+                    
+                    url: "https://jeenatzafrins-organization.gitbook.io/vespera-games-secret/"
                 }]
         },
         6666: function(t, e, r) {
