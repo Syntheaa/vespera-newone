@@ -8680,25 +8680,30 @@
             });
             var i = "Vespera | games's Secret ",
                 n = [{
-                    label: "Gallery",
+                    label: "GALLERY",
                     url: "/gallery"
                 }, {
                     label: "FAQ",
                     url: "/faq"
                 }, {
-                    label: "About vespera",
+                    label: "ABOUT VESPERA",
                     url: "/the-independent-aaa-proposition"
                 }, {
-                    label: " Map",
+                    label: " MAP",
                     url: "/posts"
                 }, {
-                    label: " Support",
+                    label: " SUPPORT",
                     url: "/mental-health-support"
                 }, {
-                    label: "GamePlay",
+                    label: "GAMPLAY",
                     url: "https://youtu.be/rnEs7HJ3bc0",
                     passHref: !0
                 }, {
+                    label: "GITBOOK",
+                    url: "https://vespara.gitbook.io/vespera/",
+                    passHref: !0
+                },
+                {
                     label: "PARTNER",
                     url: "/buy"
                 }],
