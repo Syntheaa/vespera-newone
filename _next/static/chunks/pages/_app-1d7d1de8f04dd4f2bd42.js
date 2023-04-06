@@ -8724,9 +8724,9 @@
                     
                     url: "https://www.xbox.com/en-US/Legal/CodeOfConduct"
                 },{
-                    title: "Vespera ",
+                    title: "Gitbook ",
                     
-                    url: "https://vesperas-organization.gitbook.io/vespera/"
+                    url: "https://vespara.gitbook.io/vespera/"
                 }]
         },
         6666: function(t, e, r) {

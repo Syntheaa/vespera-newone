@@ -99,11 +99,11 @@
                                     children: "The ultimate aim of the game is for the player to become the most successful space explorer in the galaxy, with the ability to form their own faction, build their own spacecraft, and conquer the galaxy. With a large open world to explore and a variety of tasks and activities to participate in, the game gives a rich and immersive experience."
                                 })]
                             }), (0, r.jsx)("a", {
-                                href: "https://publuu.com/flip-book/111194/296946",
+                                href: "https://vespara.gitbook.io/vespera/",
                                 className: "click-here-to-buy block text-center py-3 mt-8 transition-opacity hover:opacity-75 duration-150",
                                 children: (0, r.jsx)(i.Z, {
                                     size: " lg:text-2xl",
-                                    children: "Whitepaper"
+                                    children: "GITBOOK"
                                 })
                             })]
                         })]
