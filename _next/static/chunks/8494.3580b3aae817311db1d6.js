@@ -206,7 +206,7 @@
                                 },
                                 children: (0, o.jsx)(r.Z, {
                                     size: "text-2xl",
-                                    children: "Trailer"
+                                    children: "TRAILER"
                                     
                                 })
                                 
