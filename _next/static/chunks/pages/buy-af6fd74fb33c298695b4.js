@@ -57,7 +57,7 @@
                 i = a(8098),
                 r = a(5893),
                 c = [{
-                    text: "PNKSALE",
+                    text: "PINKSALE",
                     url: "https://www.pinksale.finance/",
                     image: "https://www.pinkswap.finance/pinksale.png"
                 }, {
