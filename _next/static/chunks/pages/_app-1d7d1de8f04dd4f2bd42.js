@@ -8680,8 +8680,8 @@
             });
             var i = "Vespera | games's Secret ",
                 n = [{
-                    label: "GALLERY",
-                    url: "/gallery"
+                    label: "TELEGRAM",
+                    url: "https://t.me/VESPERABSC"
                 }, {
                     label: "FAQ",
                     url: "/faq"
