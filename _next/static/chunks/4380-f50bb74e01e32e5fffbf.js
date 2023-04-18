@@ -295,7 +295,7 @@
                                     className: "video-container bg-red-400 ",
                                     children: (0, s.jsxs)("a", {
                                         className: "absolute inset-0 block",
-                                        href: "https://youtu.be/rnEs7HJ3bc0",
+                                        href: "https://youtu.be/g_ssCLEwLE4",
                                         target: "_blank",
                                         rel: "noopener noreferrer",
                                         children: [(0, s.jsx)("img", {

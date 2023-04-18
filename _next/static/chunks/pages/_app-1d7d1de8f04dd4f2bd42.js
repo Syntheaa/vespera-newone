@@ -8696,7 +8696,7 @@
                     url: "/mental-health-support"
                 }, {
                     label: "GAMPLAY",
-                    url: "https://youtu.be/rnEs7HJ3bc0",
+                    url: "https://developer.cloud.unity3d.com/share/share.html?shareId=Z152JDy1SF",
                     passHref: !0
                 }, {
                     label: "GITBOOK",
@@ -8710,7 +8710,7 @@
                 a = [{
                     title: "Youtube",
                     
-                    url: "https://youtube.com/@VESPERABSC"
+                    url: "https://youtu.be/g_ssCLEwLE4"
                 }, {
                     title: "Telegram",
                     passHref: !0,
