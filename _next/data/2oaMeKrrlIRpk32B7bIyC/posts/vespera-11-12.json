@@ -2,13 +2,13 @@
     "pageProps": {
         "preview": false,
         "post": {
-            "title": "stage-2",
-            "excerpt": "<p>Token Sale on Pinksale</p>\n<p> Game Demo LIVE</p>\n<p> PancakeSwap / Uniswap Listing</p>\n<p> Smart Contract Security Audit</p>\n<p> KYC Validation</p>\n<p> Upnull Whitepaper </p>\n",
-            "slug": "hellblade-on-nintendo-switch-releases-april-11",
+            "title": "Stage-4",
+            "excerpt": "<p> Game Release</p>\n<p> Exchange listings</p>\n<p> Mobile App Android and IOS</p>\n<p> devolopment update</p>\n<p> Multiple Coin Site Listings</p>\n <p> IOS Application Testing</p>\n<p> Plan marketing, influencers and moreJust the beginning of Vaspera, soon more news .... </p>\n<p>Watch the video here!</p>\n",
+            "slug": "vespera-11-12",
             "null": "",
             "featuredImage": {
                 "node": {
-                    "sourceUrl": "https://i.pinimg.com/550x/64/0c/81/640c817c6d9da5c1a3272539c940fd4c.jpg"
+                    "sourceUrl": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700086142.jpg"
                 }
             },
             "author": {
@@ -34,19 +34,19 @@
             "tags": {
                 "edges": []
             },
-            "content": "<p>Token Sale on Pinksale</p>\n<p> Game Demo LIVE</p>\n<p> PancakeSwap / Uniswap Listing</p>\n<p> Smart Contract Security Audit</p>\n<p> KYC Validation</p>\n<p> Upnull Whitepaper </p>\n"
+            "content":"<p> Game Release</p>\n<p> Exchange listings</p>\n<p> Mobile App Android and IOS</p>\n<p> devolopment update</p>\n<p> Multiple Coin Site Listings</p>\n <p> IOS Application Testing</p>\n<p> Plan marketing, influencers and moreJust the beginning of Vaspera, soon more news .... </p>\n<p>Watch the video here!</p>\n<p>Watch the video <a href=\"https://youtu.be/g_ssCLEwLE4\">here</a>!</p>\n"
         },
         "posts": {
             "edges": [
                 {
                     "node": {
-                        "title": "vespera: staking",
-                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vespera: Game&#8217;s secret. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
-                        "slug": "vespera-1-2",
+                        "title": "Vespera game's secret",
+                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vespera: game&#8217;s Secret. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
+                        "slug": "Vespera game's secret",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "https://i.ibb.co/pW0L3s1/Screenshot-447.png"
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/09/HBO-SEP2021-PATCH.jpg"
                             }
                         },
                         "author": {
@@ -86,13 +86,13 @@
                                 {
                                     "node": {
                                         "name": "game's secret s",
-                                        "slug": "xbox-series-s"
+                                        "slug": "game's secret-s"
                                     }
                                 },
                                 {
                                     "node": {
                                         "name": "game's secret x",
-                                        "slug": "xbox-series-x"
+                                        "slug": "game's secret-x"
                                     }
                                 }
                             ]
@@ -101,13 +101,13 @@
                 },
                 {
                     "node": {
-                        "title": "vespera TOKENOMICS",
-                        "excerpt": "<p>  • Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. Vespera Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
+                        "title": "Vespera 2nd Anniversary",
+                        "excerpt": "<p>vespera game's secret was released today! To celebrate, we’ve released some new posters for you to download in both their original size and optimised for mobile. Artwork by our Principal Environment Artist, Dan Attwell. vespera Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
                         "slug": "vespera-2-3",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "https://i.ibb.co/Jtw391S/Whats-App-Image-2023-04-06-at-2-05-25-PM.jpg"
+                                "sourceUrl": "https://i.ibb.co/k3WyRrW/Screenshot-434.png"
                             }
                         },
                         "author": {
@@ -173,13 +173,13 @@
                 },
                 {
                     "node": {
-                        "title": "Stage-3",
-                        "excerpt": "<p> Post Launch Massive Marketing</p>\n<p> Listing on the main exchanges</p>\n<p> Credit Card Development</p>\n<p> Coingecko Listing</P>\n<p> CoinMarketCap Listing</P>\n<p> Game development</P>\n<p> Initial metaverse and NFT</p>\n<p> integration</p>\n<p> Farming and staking dapp</p>\n<p> Watch the video here!</p>\n",
-                        "slug": "development-diary-25-becoming-senua",
+                        "title": "stage-2",
+                        "excerpt": "<p>Token Sale on Pinksale</p>\n<p> Game Demo LIVE</p>\n<p> PancakeSwap / Uniswap Listing</p>\n<p> Smart Contract Security Audit</p>\n<p> KYC Validation</p>\n<p> Upnull Whitepaper </p>\n",
+                        "slug": "vespera-4-5",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/becoming-senua.jpg"
+                                "sourceUrl": "https://i.pinimg.com/550x/64/0c/81/640c817c6d9da5c1a3272539c940fd4c.jpg"
                             }
                         },
                         "author": {
@@ -209,13 +209,13 @@
                 },
                 {
                     "node": {
-                        "title": "vespera:Development",
-                        "excerpt": "<p>• Develop and deploy a Minimum Viable Product (MVP) for testing and feedbac• Integrate blockchain technology and the game's cryptocurrencytoken into the MVP. Watch the video here!</p>\n",
-                        "slug": "new-track-from-the-hellblade-senuas-sacrifice-soundtrack",
+                        "title": "Stage-3",
+                        "excerpt": "<p> Post Launch Massive Marketing</p>\n<p> Listing on the main exchanges</p>\n<p> Credit Card Development</p>\n<p> Coingecko Listing</P>\n<p> CoinMarketCap Listing</P>\n<p> Game development</P>\n<p> Initial metaverse and NFT</p>\n<p> integration</p>\n<p> Farming and staking dapp</p>\n<p> Watch the video here!</p>\n",
+                        "slug": "development-diary-25-becoming-senua",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700086142.jpg"
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/becoming-senua.jpg"
                             }
                         },
                         "author": {
@@ -281,9 +281,9 @@
                 },
                 {
                     "node": {
-                        "title": " vespera Wallpapers",
+                        "title": "New vespera Wallpapers",
                         "excerpt": "<p>We’ve made some new vespera wallpapers for you all. Firstly, we have a high-res in-game screenshot available in a variety of resolutions for desktop, tablet and mobile. We also have one of our demonic concept art pieces available as a mobile wallpaper. Demon Download pack</p>\n",
-                        "slug": "new-hellblade-wallpapers",
+                        "slug": "vespera-6-7",
                         "null": "",
                         "featuredImage": {
                             "node": {
@@ -318,12 +318,12 @@
                 {
                     "node": {
                         "title": "Development : Hearing Voices",
-                        "excerpt": "<p>Our  development diary explores how we’ve created the voices that haunt throughout her journey in vespera: game's secret. Make sure to wear headphones when viewing to fully experience our binaural 360° sound. Watch the video here. For a more in-depth analysis of the themes discussed in the video, click below for an article written [&hellip;]</p>\n",
+                        "excerpt": "<p>Our development diary explores how we’ve created the voices that haunt throughout her journey in vespera: game's secret. Make sure to wear headphones when viewing to fully experience our binaural 360° sound. Watch the video here. For a more in-depth analysis of the themes discussed in the video, click below for an article written [&hellip;]</p>\n",
                         "slug": "development-diary-24-hearing-voices",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/hearing-voices.jpg"
+                                "sourceUrl": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700086142.jpg"
                             }
                         },
                         "author": {

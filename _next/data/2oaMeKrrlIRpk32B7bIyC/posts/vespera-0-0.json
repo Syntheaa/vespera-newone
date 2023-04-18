@@ -2,13 +2,13 @@
     "pageProps": {
         "preview": false,
         "post": {
-            "title": "The  Trailer",
-            "excerpt": "<p>To start off, an important note: To be clear the release of thevespera Trailer  doesn’t mean that vespera will be experience. We’re testing things out  and it makes sense for us to use the assets that we had available to us while experimenting. At GDC this year, at the [&hellip;]</p>\n",
-            "slug": "the-senua-trailer-in-vr",
-            "date": "",
+            "title": " Design ",
+            "excerpt": "<p>Our Design Poll has now of the vote: Over the next few weeks we’ll be working hard to get this gaming design</p>\n",
+            "slug": "vespera-0-0",
+            "date": "2014-12-15T11:36:28",
             "featuredImage": {
                 "node": {
-                    "sourceUrl": "https://cdn.wallpapersafari.com/48/80/6c7MD3.jpg"
+                    "sourceUrl": "https://live.staticflickr.com/4032/4618979431_e8fc614e2f_z.jpg"
                 }
             },
             "author": {
@@ -34,14 +34,14 @@
             "tags": {
                 "edges": []
             },
-            "content": "<p><strong>To start off, an important note:</strong> To be clear the release of the vespera Trailer  doesn’t mean that vespera will be  experience. We’re testing things out  and it makes sense for us to use the assets that we had available to us while experimenting.</p>\n<p>At  this year, at the Epic keynote, we released a real-time video of a scene from vespera which you can see <a href=\"https://youtu.be/g_ssCLEwLE4\">here.</a></p>\n<p>In a cool twist, we drew back the curtain mid-trailer, to reveal t.  In case you missed it, <a href=\"https://youtu.be/g_ssCLEwLE4\">here</a> is how we did it.</p>\n<p>We worked in partnership with  Games, Cubic Motion, 3Lateral &amp; iKinema to make this happen and it really was a serendipitous coming together of minds wanting to do something cool led by Kim Libreri, CTO of Epic.</p>\n<p>. At the end of the demo I suggested that this would be especially pertinent .</p>\n<p>.A handful of these have been experimenting with .  After , we now had a great looking scene and we wanted to get it up and running .   Today, we are in a position to share it with you as a stereoscopic 360° <a href=\"https://youtu.be/g_ssCLEwLE4\">video</a> form.</p>\n<p>Getting it working  required quite a bit of work.  The main challenge was optimising it to run at 90fps without losing too much in the way of visual fidelity.  It’s now mostly hitting 90fps with some exceptions so we’re not quite ready to release the PC build of the scene to the hunt.</p>\n<p>In the original scene, the cameras were captured on set and tweaked in Maya but, as you would expect, in VR it felt quite nauseating to quite a few people.  So the cameras were re-authored in matinee from scratch.</p>\n<p>It is possible to eliminate nausea by having static cameras but we felt that you also eliminate part of the drama by doing so.  So what we have is a camera path that tries to preserve the intent of the original camera while avoiding some of the main pitfalls of VR-based camera motion, namely accelerations in movement or rotation. Anyway judge for yourself and let us know how you feel about it on twitter <a href=\"https://t.me/dexview\">@vespera</a>.</p>\n<p>What was really remarkable is the feeling of vespera’s presence .  When you can lean in and see individual eye lashes up close, it is stunning..  However that illusion is shattered when you move your head away from her .</p>\n<p>To get around this, we added head and eye tracking to vespera  .</p>\n<p>We are pretty excited about bringing that future closer!</p>\n"
+            "content": "<p>Our Design Poll has now of the vote: Over the next few weeks we’ll be working hard to get this gaming design\" /></p>\n"
         },
         "posts": {
             "edges": [
                 {
                     "node": {
                         "title": "vespera: staking",
-                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vespera: game&#8217;s Secret. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
+                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vespera: Game&#8217;s Secret. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
                         "slug": "vespera-1-2",
                         "null": "",
                         "featuredImage": {
@@ -211,7 +211,7 @@
                     "node": {
                         "title": "vespera:Development",
                         "excerpt": "<p>• Develop and deploy a Minimum Viable Product (MVP) for testing and feedbac• Integrate blockchain technology and the game's cryptocurrencytoken into the MVP. Watch the video here!</p>\n",
-                        "slug": "new-track-from-the-hellblade-senuas-sacrifice-soundtrack",
+                        "slug": "vespera-11-12",
                         "null": "",
                         "featuredImage": {
                             "node": {
@@ -283,7 +283,7 @@
                     "node": {
                         "title": " vespera Wallpapers",
                         "excerpt": "<p>We’ve made some new vespera wallpapers for you all. Firstly, we have a high-res in-game screenshot available in a variety of resolutions for desktop, tablet and mobile. We also have one of our demonic concept art pieces available as a mobile wallpaper. Demon Download pack</p>\n",
-                        "slug": "new-hellblade-wallpapers",
+                        "slug": "vespera-6-7",
                         "null": "",
                         "featuredImage": {
                             "node": {

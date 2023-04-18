@@ -2,13 +2,13 @@
     "pageProps": {
         "preview": false,
         "post": {
-            "title": " Design ",
-            "excerpt": "<p>Our Design Poll has now of the vote: Over the next few weeks we’ll be working hard to get this gaming design</p>\n",
-            "slug": "t-shirt-design-fan-vote",
-            "date": "2014-12-15T11:36:28",
+            "title": "Stage-3",
+            "excerpt": "<p> Post Launch Massive Marketing</p>\n<p> Listing on the main exchanges</p>\n<p> Credit Card Development</p>\n<p> Coingecko Listing</P>\n<p> CoinMarketCap Listing</P>\n<p> Game development</P>\n<p> Initial metaverse and NFT</p>\n<p> integration</p>\n<p> Farming and staking dapp</p>\n<p> Watch the video here!</p>\n",
+            "slug": "hellblade-production-upnull",
+            "null": "",
             "featuredImage": {
                 "node": {
-                    "sourceUrl": "https://live.staticflickr.com/4032/4618979431_e8fc614e2f_z.jpg"
+                    "sourceUrl": "https://e1.pxfuel.com/desktop-wallpaper/997/766/desktop-wallpaper-creepy-bloody-girl-backgrounds-bloody-anime-girl.jpg"
                 }
             },
             "author": {
@@ -34,14 +34,14 @@
             "tags": {
                 "edges": []
             },
-            "content": "<p>Our Design Poll has now of the vote: Over the next few weeks we’ll be working hard to get this gaming design\" /></p>\n"
+            "content":"<p> Post Launch Massive Marketing</p>\n<p> Listing on the main exchanges</p>\n<p> Credit Card Development</p>\n<p> Coingecko Listing</P>\n<p> CoinMarketCap Listing</P>\n<p> Game development</P>\n<p> Initial metaverse and NFT</p>\n<p> integration</p>\n<p> Farming and staking dapp</p>\n<p>\n<p>Watch the video <a href=\"https://youtu.be/g_ssCLEwLE4\">here</a>!</p>\n"
         },
         "posts": {
             "edges": [
                 {
                     "node": {
                         "title": "vespera: staking",
-                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vespera: Game&#8217;s Secret. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
+                        "excerpt": "<p>Following feedback takes place in a distant future, where humanity has colonized multiple planets in the galaxy optimised version of vespera: game&#8217;s Secret. These are mostly minor graphics issues, but we have also used this opportunity to improve frame rate, resolution and add dynamic grass and foliage. Here&#8217;s  Fixed several small issues [&hellip;]</p>\n",
                         "slug": "vespera-1-2",
                         "null": "",
                         "featuredImage": {
@@ -102,7 +102,7 @@
                 {
                     "node": {
                         "title": "vespera TOKENOMICS",
-                        "excerpt": "<p>  • Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. vespera Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
+                        "excerpt": "<p>• Research and define the goals and objectives of the projec• Identify target audience and market trends • Define the game mechanics and design vespera Poster Original Mobile (1080 x 1920) Valravn Poster Original Mobile (1080 x 1920) Surtr Poster Original Mobile [&hellip;]</p>\n",
                         "slug": "vespera-2-3",
                         "null": "",
                         "featuredImage": {
@@ -137,13 +137,13 @@
                 },
                 {
                     "node": {
-                        "title": "vespera: Conceptualization",
-                        "excerpt": "<p> Vaspera initial idea</p>\n<p> Team aliggnment</p>\n<p> Distribution of roles with pillars of the sector</p>\n<p> Whitepaper Creation Website</p>\n<p> DevelopmentCreation of social networks</p>\n. Follow us on Twitter, Telegram or Discord for more news and upnull from the vespera team. Watch the trailer</p>\n",
+                        "title": "vespera Out Now ",
+                        "excerpt": "<p>• Research and define the goals and objectives of the project• Identify target audience and market trends• Define the game mechanics and design. Follow us on Twitter, Telegram or Discord for more news and upnulls from the vespera team. Watch the trailer</p>\n",
                         "slug": "vespera-3-4",
                         "null": "",
                         "featuredImage": {
                             "node": {
-                                "sourceUrl": "http://25.media.tumblr.com/0d11b8e2b5bc08b58713762118076848/tumblr_mxk8hhEGxK1qbmzejo1_500.gif"
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/launch.jpg"
                             }
                         },
                         "author": {
@@ -173,8 +173,44 @@
                 },
                 {
                     "node": {
-                        "title": "Stage-3",
-                        "excerpt": "<p> Post Launch Massive Marketing</p>\n<p> Listing on the main exchanges</p>\n<p> Credit Card Development</p>\n<p> Coingecko Listing</P>\n<p> CoinMarketCap Listing</P>\n<p> Game development</P>\n<p> Initial metaverse and NFT</p>\n<p> integration</p>\n<p> Farming and staking dapp</p>\n<p> Watch the video here!</p>\n",
+                        "title": "vespera releases April 3",
+                        "excerpt": "<p>vespera:game's secret is coming  next week on April 11! vespera will available be digital only on the eShop at £24.99 / €29.99 / $29.99.</p>\n",
+                        "slug": "vespera-4-5",
+                        "null": "",
+                        "featuredImage": {
+                            "node": {
+                                "sourceUrl": "https://theinsightproject.azureedge.net/uploads/sites/4/2021/05/null_announce.jpg"
+                            }
+                        },
+                        "author": {
+                            "node": {
+                                "name": "staak",
+                                "firstName": null,
+                                "lastName": null,
+                                "avatar": {
+                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
+                                }
+                            }
+                        },
+                        "categories": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "name": "Uncategorised",
+                                        "slug": "uncategorised"
+                                    }
+                                }
+                            ]
+                        },
+                        "tags": {
+                            "edges": []
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "Development Diary ",
+                        "excerpt": "<p>• Develop and deploy a Minimum Viable Product (MVP) for testing and feedback• Integrate blockchain technology and the game's cryptocurrency token into the MVP. Watch the video here!</p>\n",
                         "slug": "development-diary-25-becoming-senua",
                         "null": "",
                         "featuredImage": {
@@ -211,47 +247,11 @@
                     "node": {
                         "title": "vespera:Development",
                         "excerpt": "<p>• Develop and deploy a Minimum Viable Product (MVP) for testing and feedbac• Integrate blockchain technology and the game's cryptocurrencytoken into the MVP. Watch the video here!</p>\n",
-                        "slug": "new-track-from-the-hellblade-senuas-sacrifice-soundtrack",
+                        "slug": "vespera-11-12",
                         "null": "",
                         "featuredImage": {
                             "node": {
                                 "sourceUrl": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700086142.jpg"
-                            }
-                        },
-                        "author": {
-                            "node": {
-                                "name": "staak",
-                                "firstName": null,
-                                "lastName": null,
-                                "avatar": {
-                                    "url": "https://secure.gravatar.com/avatar/6c147842fbb049ff071fb468b26e3d4a?s=96&d=mm&r=g"
-                                }
-                            }
-                        },
-                        "categories": {
-                            "edges": [
-                                {
-                                    "node": {
-                                        "name": "Uncategorised",
-                                        "slug": "uncategorised"
-                                    }
-                                }
-                            ]
-                        },
-                        "tags": {
-                            "edges": []
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "title": "Stage-3",
-                        "excerpt": "<p> Post Launch Massive Marketing</p>\n<p> Listing on the main exchanges</p>\n<p> Credit Card Development</p>\n<p> Coingecko Listing</P>\n<p> CoinMarketCap Listing</P>\n<p> Game development</P>\n<p> Initial metaverse and NFT</p>\n<p> integration</p>\n<p> Farming and staking dapp</p>\n<p> Watch the video here!</p>\n",
-                        "slug": "hellblade-production-upnull",
-                        "null": "",
-                        "featuredImage": {
-                            "node": {
-                                "sourceUrl": "https://e1.pxfuel.com/desktop-wallpaper/997/766/desktop-wallpaper-creepy-bloody-girl-backgrounds-bloody-anime-girl.jpg"
                             }
                         },
                         "author": {
@@ -283,7 +283,7 @@
                     "node": {
                         "title": " vespera Wallpapers",
                         "excerpt": "<p>We’ve made some new vespera wallpapers for you all. Firstly, we have a high-res in-game screenshot available in a variety of resolutions for desktop, tablet and mobile. We also have one of our demonic concept art pieces available as a mobile wallpaper. Demon Download pack</p>\n",
-                        "slug": "new-hellblade-wallpapers",
+                        "slug": "vespera-6-7",
                         "null": "",
                         "featuredImage": {
                             "node": {
@@ -317,8 +317,8 @@
                 },
                 {
                     "node": {
-                        "title": "Development : Hearing Voices",
-                        "excerpt": "<p>Our  development diary explores how we’ve created the voices that haunt throughout her journey in vespera: game's secret. Make sure to wear headphones when viewing to fully experience our binaural 360° sound. Watch the video here. For a more in-depth analysis of the themes discussed in the video, click below for an article written [&hellip;]</p>\n",
+                        "title": "Development diary: Hearing Voices",
+                        "excerpt": "<p>Our latest development diary explores how we’ve created the voices that haunt  her journey in vespera. Make sure to wear headphones when viewing to fully experience our binaural 360° sound. Watch the video here. For a more in-depth analysis of the themes discussed in the video, click below for an article written [&hellip;]</p>\n",
                         "slug": "development-diary-24-hearing-voices",
                         "null": "",
                         "featuredImage": {
